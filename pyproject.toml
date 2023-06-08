@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "multilabel"
+version = "0.1.0"
+description = ""
+authors = ["Michael Fuest <ge69fuh@mytum.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.2"
+numpy = "^1.24.3"
+scikit-learn = "^1.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
