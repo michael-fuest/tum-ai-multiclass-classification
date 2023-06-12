@@ -1,6 +1,6 @@
 # tum-ai-multiclass-classification
 
-This Python project, called "tum-ai-multilabel-classification," provides implementations of preprocessing and modeling of a multiclass classification problem on synthetic data.
+This Python project, called "tum-ai-multilabel-classification," provides implementations of preprocessing and modeling of a multiclass classification problem on synthetic data. This project was designed as a fun intro project for the research and development team of [TUM.ai]([url](https://www.tum-ai.com/)), a student organization dedicated to educating and connecting students from diverse backgrounds to incentivize new interdisciplinary AI projects and push the creation and usage of applicable and safe AI in all domains.
 
 ## Setup
 
